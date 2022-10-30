@@ -2,7 +2,7 @@
   "name": "javascript-dependency-injection",
   "version": "1.0.0",
   "description": "Dependency Injection in Javascript",
-  "main": "dist/javascript-di.js",
+  "main": "dist/javascript-dependency-injection.js",
   "scripts": {
     "test": "jest",
     "clean": "npm run clean-build && npm run clean-dist",
