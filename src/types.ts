@@ -7,3 +7,4 @@ export type ServiceDescription = {
 }
 
 export type DIClassDefinition<T> = new (...params: any[]) => T;
+export type AvailableServices = "ILogger" | "IRequestMediator" | "IConfigurationProvider";
